@@ -6,4 +6,4 @@ je Suis Nicolas
 demo plus commit and add
 
 et maintenant je modifie depuis GitHub
-et depuis ma machine!
+et depuis ma machine! et c'est cool wohooooo
