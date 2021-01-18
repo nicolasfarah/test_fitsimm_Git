@@ -1,4 +1,4 @@
- Ceci est un fichier de format txt de la bracnche fitsimmm
+ Ceci est un dossier ----------- t de la bracnche fitsimmm
 
 
  demo from Fs@fs
